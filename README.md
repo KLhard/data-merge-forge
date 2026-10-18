@@ -108,5 +108,5 @@ Os resultados documentados para a carga analisada incluem R$ 8.973,50 em receita
 - A região usada em análises é estimada pelo DDD do telefone, não informada diretamente.
 - O memorial aponta concentração de durações em 300 segundos, o que limita o uso do tempo de sessão como medida de engajamento.
 - A idade é calculada na data da execução, então pode variar entre execuções.
-
+ 
 Consulte o memorial descritivo para o detalhamento das decisões de governança, resultados e recomendações.
