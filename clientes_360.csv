@@ -1,0 +1,40 @@
+ID_Cliente,Nome,Email,Email_Valido,Telefone,Data_Nascimento,Idade,Total_Gasto,Qtd_Sessoes,Qtd_Compras_Finalizadas,Tempo_Medio_Sessao_Seg,Conversao
+19,Alexandre Souza,alexandre.souza@email.com,True,(11) 91234-1235,1992-03-07,34,855.0,2,2,300.0,1
+18,Amanda Oliveira,amandaoliveira@email.com,True,(11) 91234-1234,1990-11-01,35,0.0,2,0,300.0,0
+4,Ana Pereira,anapereira@email.com,True,,1992-07-25,34,0.0,3,0,313.3333333333333,0
+45,Ana Silva,ana.silva@email.com,True,(11) 98765-4321,1990-05-15,36,300.0,2,2,300.0,1
+29,Beatriz Martins,beatrizmartins@email.com,True,(31) 98765-4445,1994-08-28,32,85.0,2,1,300.0,1
+16,Bruna Santos,bruna.santos@email.com,True,,1991-09-09,35,150.0,3,0,300.0,0
+8,Camila Silva,camilasilva@email.com,True,(11) 99999-0000,1998-10-18,27,160.0,4,2,386.25,1
+5,Carlos Rodrigues,carlosrodrigues@email.com,True,(31) 99999-8888,1991-04-30,35,450.0,3,3,500.0,1
+39,Daniela Santos,danielasantos@email.com,True,,1994-05-17,32,180.0,2,1,300.0,1
+23,Diego Silva,diegosilva@email.com,True,(47) 98765-1111,1986-12-19,39,90.0,2,1,300.0,1
+21,Fábio Rocha,fabiorocha@email.com,True,(21) 99999-3334,1995-08-14,31,210.0,2,2,300.0,1
+37,Felipe Vieira,felipevieira@email.com,True,(47) 91234-5679,1989-12-28,36,175.0,2,2,300.0,1
+6,Fernanda Lima,fernandalima@email.com,True,(31) 99888-7777,1985-06-12,41,0.0,5,0,266.0,0
+32,Guilherme Oliveira,guilherme.oliveira@email.com,True,(11) 99999-7777,1993-04-11,33,0.0,2,0,300.0,0
+13,Gustavo Mendes,gustavomendes@email.com,True,(21) 98765-1234,1996-07-10,30,735.0,5,3,300.0,1
+17,Henrique Costa,henriquecosta@email.com,True,(47) 98765-6666,1988-04-12,38,440.0,3,3,300.0,1
+41,Isabela Pereira,isabelapereira@email.com,True,(21) 99999-1213,1988-11-15,37,100.0,2,1,300.0,1
+40,Joao Lucas,joaolucas@email.com,True,(21) 99999-1212,1996-09-22,29,215.0,2,1,300.0,1
+1,João Santos,joaosantos@email.com,True,(11) 98765-4321,1990-05-15,36,650.5,6,5,302.5,1
+7,José Alves,josealvez@email.com,True,(47) 91234-5678,1993-09-03,33,310.0,5,2,294.0,1
+31,Julia Costa,juliacosta@email.com,True,(11) 99999-6666,1996-01-03,30,293.0,2,2,300.0,1
+10,Juliana Martins,julianamartins@email.com,True,(21) 98765-4322,1990-01-22,36,120.0,3,1,220.0,1
+38,Larissa Rocha,larissarocha@email.com,True,(11) 91234-9876,1991-03-05,35,90.0,2,1,300.0,1
+25,Laura Castro,lauracastro@email.com,True,,1993-02-02,33,110.0,2,1,300.0,1
+14,Leticia Lima,leticialima@email.com,True,(21) 98765-1235,1989-02-18,37,0.0,3,1,300.0,1
+9,Lucas Ribeiro,lucasribeiro@email.com,True,(21) 98765-4321,1987-12-05,38,440.0,3,2,300.0,1
+33,Luciana Castro,lucianacastro@email.com,True,,1995-06-21,31,215.0,2,2,300.0,1
+28,Marcelo Lima,marcelolima@email.com,True,(31) 98765-4444,1985-05-10,41,70.0,2,1,300.0,1
+2,Maria Oliveira,maria.oliveira@email.com,True,(11) 98765-4322,1988-11-20,37,0.0,3,0,255.0,0
+20,Mariana Carvalho,marianacarvalho@email.com,True,(21) 99999-3333,1987-06-30,39,0.0,2,0,300.0,0
+12,Patrícia Gomes,patriciagomes@email.com,True,(11) 99999-2222,1994-03-25,32,200.0,3,0,300.0,0
+26,Paulo Santos,paulosantos@email.com,True,(21) 91234-8888,1999-01-25,27,280.0,2,1,300.0,1
+3,Pedro Costa,pedrocosta@email.com,True,(21) 91234-5678,1995-02-10,31,725.0,3,3,393.3333333333333,1
+30,Ricardo Souza,ricardosouza@email.com,True,(47) 99999-5555,1997-11-05,28,210.0,2,1,300.0,1
+11,Roberto Ferreira,robertoferreira@email.com,True,(11) 99999-1111,1986-08-08,40,310.0,3,3,400.0,1
+15,Rodrigo Dias,rodrigodias@email.com,True,(31) 98765-5555,1997-05-20,29,410.0,3,2,300.0,1
+22,Sandra Vieira,sandra.vieira@email.com,True,(31) 91234-9999,1998-10-29,27,195.0,2,1,300.0,1
+27,Sofia Pereira,sofia.pereira@email.com,True,(21) 91234-8889,1990-07-17,36,200.0,2,1,300.0,1
+34,Victor Santos,victorsantos@email.com,True,(21) 98765-0000,1992-08-13,34,0.0,2,0,300.0,0
